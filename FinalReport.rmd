@@ -91,3 +91,6 @@ Black and white people are different races. Both do not differ from one another.
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+According to this data, the biggest percentage of supporters of the death penalty still belong to the white race, while the highest proportion of opponents belongs to the black race. Based on the data presented and their p-values, the only distinction between the black and white racial groups is made in this set of graphs and statistics. So yes, there is a difference between the number two branch and the master, and the explanation for this is given above. However, in terms of support for the death penalty throughout both branches, white people continue to hold the majority. 
+
