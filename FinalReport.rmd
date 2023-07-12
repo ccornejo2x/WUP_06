@@ -98,3 +98,6 @@ With this specific info, every other race is unique, P-value is still quite smal
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+On this site, the white race continues to have a higher percentage of supporters of the death penalty than any other race. Even while the p-value is still small, variations exist on the second branch across ALL races, not just the two dominant ones, However, the data are still varied for each race. The black race is the race that is most opposed to the death penalty while the other race held the top spot on the number two branch. 
+
