@@ -77,7 +77,20 @@ There are an equal number of members of the white, black, and other races. White
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
 `
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
+The Chi-squared test yielded an 80 percent result. With a 2.2e, the p-vaue is extremely small.
+
+
+```{r}
+fisherXY(mydata$race,mydata$cappun)
+```
+
+With this specific info, every other race is unique, P-value is still quite small. The majority of those who support the death penalty are still of the whtre race. 
 
 ## More data version
 
