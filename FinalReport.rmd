@@ -61,10 +61,13 @@ The white race is more supportive of the death epnalty than the other race, whic
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+table1 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table1)
+colPerc(table1)
+```
 
-
-
-
+The majority of white people (67.75%) still support the death penalty, with the other races having a ratio of 61.25 that is extremely close to that of the white people. Of all racial groups, 52.76 percent of black people oppose the death penalty. While still having an equal number of members in each race. 
 
 ## Inferential Results
 
